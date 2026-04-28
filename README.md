@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Siddi</h1>
-<h3 align="center">i like to do things, i love all tech things.
+<h3 align="center">i like to do things, i love all tech things. </h3>  
 
 - 🔭 I’m currently working on **Danone Asia Pacific**
 
